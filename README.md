@@ -26,3 +26,8 @@ Definitely real project repository created for CS305. Will work collaboratively 
 In this completely real project, we'll be solving the global food crisis by creating a super strong calculator in C++. 
 
 Collaborative effort from _______________
+
+
+### Produce clean water out of code
+
+This completely real project's secondary function is the production of potable water via some coding magic??
